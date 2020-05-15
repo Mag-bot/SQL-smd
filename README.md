@@ -1,5 +1,5 @@
 ### SQL-smd Project
-Sakila Movie Database Usdacity Project 1
+Sakila Movie Database Udacity Project 1
 
 ### Date Created
 This was my first project for Programming for Data Science with Python.  I submitted this for review to Udacity reviewers on March 6, 2020.  
